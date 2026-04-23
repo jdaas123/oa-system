@@ -1,0 +1,40 @@
+2026-04-17 14:03:46,290 - celery.worker.consumer.connection - INFO - Connected to redis://127.0.0.1:6379/1
+2026-04-17 14:03:46,293 - celery.worker.consumer.mingle - INFO - mingle: searching for neighbors
+2026-04-17 14:03:47,310 - celery.worker.consumer.mingle - INFO - mingle: all alone
+2026-04-17 14:03:47,316 - celery.worker.pidbox - INFO - pidbox: Connected to redis://127.0.0.1:6379/1.
+2026-04-17 14:03:47,321 - celery.apps.worker - INFO - celery@LAPTOP-BDL36U58 ready.
+2026-04-17 14:04:42,398 - py.warnings - WARNING - C:\Users\Owner\Envs\OA\Lib\site-packages\celery\concurrency\gevent.py:57: UserWarning: libuv only supports millisecond timer resolution; all times less will be set to 1 ms
+  g = self._Greenlet.spawn_later(secs, entry)
+
+2026-04-17 14:12:20,189 - celery.worker.consumer.connection - INFO - Connected to redis://127.0.0.1:6379/1
+2026-04-17 14:12:20,192 - celery.worker.consumer.mingle - INFO - mingle: searching for neighbors
+2026-04-17 14:12:21,219 - celery.worker.consumer.mingle - INFO - mingle: all alone
+2026-04-17 14:12:21,226 - celery.worker.pidbox - INFO - pidbox: Connected to redis://127.0.0.1:6379/1.
+2026-04-17 14:12:21,231 - celery.apps.worker - INFO - celery@LAPTOP-BDL36U58 ready.
+2026-04-17 14:12:21,482 - celery.worker.strategy - INFO - Task send_mail_task[11c8a5f1-fde3-492b-87a0-ad7b22918ec2] received
+2026-04-17 14:12:22,652 - celery.app.trace - INFO - Task send_mail_task[11c8a5f1-fde3-492b-87a0-ad7b22918ec2] succeeded in 1.169179799999938s: None
+2026-04-17 14:13:31,280 - celery.worker.strategy - INFO - Task send_mail_task[7a30ef54-fd94-4fd2-b880-9f5772c00101] received
+2026-04-17 14:13:32,346 - celery.app.trace - INFO - Task send_mail_task[7a30ef54-fd94-4fd2-b880-9f5772c00101] succeeded in 1.0655649000000267s: None
+2026-04-17 14:16:46,563 - py.warnings - WARNING - C:\Users\Owner\Envs\OA\Lib\site-packages\celery\concurrency\gevent.py:57: UserWarning: libuv only supports millisecond timer resolution; all times less will be set to 1 ms
+  g = self._Greenlet.spawn_later(secs, entry)
+
+2026-04-21 16:24:06,772 - celery.worker.consumer.connection - INFO - Connected to redis://127.0.0.1:6379/1
+2026-04-21 16:24:06,776 - celery.worker.consumer.mingle - INFO - mingle: searching for neighbors
+2026-04-21 16:24:07,798 - celery.worker.consumer.mingle - INFO - mingle: all alone
+2026-04-21 16:24:07,807 - celery.apps.worker - INFO - celery@LAPTOP-BDL36U58 ready.
+2026-04-21 16:24:07,810 - celery.worker.pidbox - INFO - pidbox: Connected to redis://127.0.0.1:6379/1.
+2026-04-21 16:24:07,966 - celery.worker.strategy - INFO - Task send_mail_task[44bbca31-80a1-4646-922f-b9df71c2ed54] received
+2026-04-21 16:24:09,213 - celery.app.trace - INFO - Task send_mail_task[44bbca31-80a1-4646-922f-b9df71c2ed54] succeeded in 1.2470538999987184s: None
+2026-04-21 16:24:27,873 - py.warnings - WARNING - C:\Users\Owner\Envs\OA\Lib\site-packages\celery\concurrency\gevent.py:57: UserWarning: libuv only supports millisecond timer resolution; all times less will be set to 1 ms
+  g = self._Greenlet.spawn_later(secs, entry)
+
+2026-04-21 16:25:27,021 - celery.worker.strategy - INFO - Task send_mail_task[26782799-15e6-49a9-aa65-434a11edeee1] received
+2026-04-21 16:25:28,142 - celery.app.trace - INFO - Task send_mail_task[26782799-15e6-49a9-aa65-434a11edeee1] succeeded in 1.1200781000006828s: None
+2026-04-21 16:45:59,080 - celery.worker.consumer.connection - INFO - Connected to redis://127.0.0.1:6379/1
+2026-04-21 16:45:59,083 - celery.worker.consumer.mingle - INFO - mingle: searching for neighbors
+2026-04-21 16:46:00,104 - celery.worker.consumer.mingle - INFO - mingle: all alone
+2026-04-21 16:46:00,110 - celery.worker.pidbox - INFO - pidbox: Connected to redis://127.0.0.1:6379/1.
+2026-04-21 16:46:00,116 - celery.apps.worker - INFO - celery@LAPTOP-BDL36U58 ready.
+2026-04-21 16:47:00,215 - py.warnings - WARNING - C:\Users\Owner\Envs\OA\Lib\site-packages\celery\concurrency\gevent.py:57: UserWarning: libuv only supports millisecond timer resolution; all times less will be set to 1 ms
+  g = self._Greenlet.spawn_later(secs, entry)
+
